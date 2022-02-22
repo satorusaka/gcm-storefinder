@@ -8,4 +8,4 @@ https://location.am-all.net からデータをクローリングして地図を�
 
 # DEMO
 
-https://bemusicscript.github.io/gcm-storefinder/
+https://satorusaka.github.io/gcm-storefinder/
