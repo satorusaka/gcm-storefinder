@@ -1,1 +1,82 @@
-[{"name": "TIMEZONE(VIVOCITY)", "address": "1 HARBOURFRONT WALK,#03-03,VIVOCITY", "location": [1.264317681074839, 103.82229096808817]}, {"name": "TIMEZONE(3GATEWAY DRIVE)", "address": "#B1-03/04/05,3GATEWAYDRIVE,608532 SINGAPORE", "location": [1.334467, 103.742788]}, {"name": "VIRTUALAND BUGIS+", "address": "201 Victoria Street , #05-04/05/06 Bugis+, Singapore 188067", "location": [27.943969, -82.287194]}, {"name": "COW PLAY COW MOO", "address": "1 Pasir Ris Close,#04-102,Singapole 519599", "location": [1.3769815, 103.9544216]}, {"name": "VC FLAGSHIP PLUS", "address": "1Harbourfront Walk,#02-205 VivoCity,Singapore 098585", "location": [1.2640606, 103.8223506]}, {"name": "VIRTUALAND(NEX)", "address": "23, SERANGOON CENTRAL #04-65 NEX SINGAPORE", "location": [1.350771369527377, 103.87222576571082]}, {"name": "VIRTUALAND CENTURY SQUARE", "address": "2TAMPINES CENTRAL 5 #05-02/03/04CENTURY SQUARE", "location": [1.352739, 103.9438363]}, {"name": "VIRTUALAND SINGPOST CENTRE", "address": "10 Eunos Road 8,Singapore Post Centre, #B1-141/142/143 Singapore", "location": [1.3190065, 103.8943833]}, {"name": "COW PLAY COW MOO(SUNTEC CITY)", "address": "Sun Tec City 3Temasek Boulevard, 02-408/409,Singapore 038983", "location": [1.29503, 103.8583026]}, {"name": "FAT CAT(SUMMER SET)", "address": "313@Summeset 313 Orchard RD,05-05,Singapore,238895", "location": [1.3009665, 103.8384727]}]
+[
+    {
+        "name": "TIMEZONE(VIVOCITY)",
+        "address": "1 HARBOURFRONT WALK,#03-03,VIVOCITY",
+        "location": [
+            1.264317681074839,
+            103.82229096808817
+        ]
+    },
+    {
+        "name": "TIMEZONE(3GATEWAY DRIVE)",
+        "address": "#B1-03/04/05,3GATEWAYDRIVE,608532 SINGAPORE",
+        "location": [
+            1.334467,
+            103.742788
+        ]
+    },
+    {
+        "name": "VIRTUALAND BUGIS+",
+        "address": "201 Victoria Street , #05-04/05/06 Bugis+, Singapore 188067",
+        "location": [
+            1.2998838485259803,
+            103.85417539467376
+        ]
+    },
+    {
+        "name": "COW PLAY COW MOO",
+        "address": "1 Pasir Ris Close,#04-102,Singapole 519599",
+        "location": [
+            1.3769815,
+            103.9544216
+        ]
+    },
+    {
+        "name": "VC FLAGSHIP PLUS",
+        "address": "1Harbourfront Walk,#02-205 VivoCity,Singapore 098585",
+        "location": [
+            1.2640606,
+            103.8223506
+        ]
+    },
+    {
+        "name": "VIRTUALAND(NEX)",
+        "address": "23, SERANGOON CENTRAL #04-65 NEX SINGAPORE",
+        "location": [
+            1.350771369527377,
+            103.87222576571082
+        ]
+    },
+    {
+        "name": "VIRTUALAND CENTURY SQUARE",
+        "address": "2TAMPINES CENTRAL 5 #05-02/03/04CENTURY SQUARE",
+        "location": [
+            1.352739,
+            103.9438363
+        ]
+    },
+    {
+        "name": "VIRTUALAND SINGPOST CENTRE",
+        "address": "10 Eunos Road 8,Singapore Post Centre, #B1-141/142/143 Singapore",
+        "location": [
+            1.3190065,
+            103.8943833
+        ]
+    },
+    {
+        "name": "COW PLAY COW MOO(SUNTEC CITY)",
+        "address": "Sun Tec City 3Temasek Boulevard, 02-408/409,Singapore 038983",
+        "location": [
+            1.29503,
+            103.8583026
+        ]
+    },
+    {
+        "name": "FAT CAT(SUMMER SET)",
+        "address": "313@Summeset 313 Orchard RD,05-05,Singapore,238895",
+        "location": [
+            1.3009665,
+            103.8384727
+        ]
+    }
+]
